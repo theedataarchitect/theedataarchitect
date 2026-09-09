@@ -6,7 +6,7 @@
 </div>
 
   <!-- Hero image (optional) -->
-  <img src="https://raw.githubusercontent.com/WillowyBoat2388/WillowyBoat2388/main/profile-hero.svg" alt="Profile hero" width="700" style="max-width:100%; border-radius:12px; box-shadow: 0 8px 30px rgba(0,0,0,0.12)"/>
+  <img src="https://raw.githubusercontent.com/theedataarchitect/theedataarchitect/main/profile-hero.svg" alt="Profile hero" width="700" style="max-width:100%; border-radius:12px; box-shadow: 0 8px 30px rgba(0,0,0,0.12)"/>
   </p>
 </div>
 
