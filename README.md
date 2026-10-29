@@ -12,7 +12,7 @@
 
   <!-- Brand / Links row -->
   <p>
-    <a href="https://dataartisan.work" title="Data Artisan - Cloud - AI"><img alt="Data Artisan" src="https://img.shields.io/badge/Company-Beyond%20Data%20Networks-0ea5a2?logo=wordpress&style=for-the-badge" /></a>
+    <!-- <a href="https://dataartisan.work" title="Data Artisan - Cloud - AI"><img alt="Data Artisan" src="https://img.shields.io/badge/Company-Beyond%20Data%20Networks-0ea5a2?logo=wordpress&style=for-the-badge" /></a> -->
     <a href="https://www.linkedin.com/in/fikayo-wale-olaitan" title="LinkedIn"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" /></a>
     <a href="https://substack.com/@onidajofikayo/" title="Onidajo Fikayo"><img alt="Blog" src="https://img.shields.io/badge/Blog-Substack-ff4500?style=for-the-badge" /></a>
     <!-- <a href="https://www.youtube.com/@thetradingmentality1804" title="YouTube Channel"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Channel-c4302b?logo=youtube&style=for-the-badge" /></a> -->
@@ -101,8 +101,8 @@ I design and operate scalable data infrastructure and platforms — with a parti
 
 # Projects & highlights
 - **Platform / Production Pipelines** — built multi-tenant ETL/ELT flows with low-latency ingestion, in-memory DuckDB matching logic, and a Polars-first transformation layer.  
-- **Monitoring & Validation** — implemented dataset-level validation, quarantining failing records, and human-in-the-loop review flows for data quality.  
-- **Developer DX** — introduced devcontainers, Kapstan-like tooling, and CI patterns for reproducible developer environments and faster iterations.
+- **Monitoring & Validation** — Stood up Grafana Observability Dashboard for cost and resource management with threshold alerts and notifications for EKS and Apache Airflow resources.  
+- **Data Governance** — Strong focus on data governance and operations principles. Employing software engineering and DevOps principles to standardise development and documentation practices for data engineering teams, leading to improved developer experience and development speed.
 
 (See pinned repos on my profile for code samples and architecture docs.)
 ## 🚀 Featured Projects  
