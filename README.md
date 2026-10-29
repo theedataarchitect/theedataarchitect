@@ -12,9 +12,9 @@
 
   <!-- Brand / Links row -->
   <p>
-    <a href="https://home.bdatanet.tech" title="Beyond Data Network — Firm"><img alt="Beyond Data Network" src="https://img.shields.io/badge/Company-Beyond%20Data%20Networks-0ea5a2?logo=wordpress&style=for-the-badge" /></a>
+    <a href="https://dataartisan.work" title="Data Artisan - Cloud - AI"><img alt="Data Artisan" src="https://img.shields.io/badge/Company-Beyond%20Data%20Networks-0ea5a2?logo=wordpress&style=for-the-badge" /></a>
     <a href="https://www.linkedin.com/in/fikayo-wale-olaitan" title="LinkedIn"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" /></a>
-    <a href="https://blog.bdatanet.tech/" title="Collective Analytics"><img alt="Blog" src="https://img.shields.io/badge/Blog-Substack-ff4500?style=for-the-badge" /></a>
+    <a href="https://substack.com/@onidajofikayo/" title="Onidajo Fikayo"><img alt="Blog" src="https://img.shields.io/badge/Blog-Substack-ff4500?style=for-the-badge" /></a>
     <!-- <a href="https://www.youtube.com/@thetradingmentality1804" title="YouTube Channel"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Channel-c4302b?logo=youtube&style=for-the-badge" /></a> -->
   </p>
   <p>
