@@ -48,55 +48,53 @@
 # About Me
 I design and operate scalable data infrastructure and platforms — with a particular focus on fast, resilient pipelines, clean data models for analytics, and automation that keeps teams shipping confidently. I enjoy mentoring, documenting architecture clearly, and turning complex data flows into repeatable, trustworthy systems.
 
-- 💼 Co-founder at [Beyond Data Network](https://bdatanet.tech)  
-- ✍🏽 I write on [Collective Analytics](https://blog.bdatanet.tech/)  
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/fikayowaleolaitan/)
+- 💼 Data Platform Engineer at [Federated Engineers](https://federatedengineers.com)  
+- ✍🏽 I write about data platform engineering on my [Substack](https://substack.com/@onidajofikayo/)  
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/onidajofikayo/)
 
 ---
 
 # What I do (high level)
-- Architect end-to-end data platforms (ETL/ELT, streaming, storage, compute).  
-- Build reliable orchestration & automation (CI/CD, observability, alerting).  
+- Architect end-to-end data platforms (ETL/ELT, Cloud Observability, Data Lakes).  
+- Build reliable orchestration & automation (CI/CD, Fault-tolerance, Alerting).  
 - Deliver analytics-ready datasets and data products for business stakeholders.  
-- Coach engineers on scalable design patterns, testable data pipelines, and safe deployment practices.
+- Lead teams on scalable data engineering patterns, idempotent data pipelines, and production deployment best practices.
 <details>
-<summary>🏗️ <b>Architecture & Platform Design</b></summary>
+<summary>🏗️ <b>Building Data Platforms with **Apache Airflow**</b></summary>
 <br>
 
-- **Multi-tenant ETL/ELT flows** with low-latency ingestion
-- **In-memory DuckDB** matching logic for real-time processing  
-- **Polars-first transformation** layer for high-performance analytics
-- **Event-driven architecture** with Kafka/PubSub messaging
-- **Microservices on Kubernetes** with auto-scaling capabilities
+- **Multi-tenant ETL/ELT flows** with automated scheduling
+- **In-memory transformations** using **dbt** and **Apache Spark** 
+- **Event-driven architecture** via **Amazon S3** and **AWS Lambda** triggers 
+- **Distributed Deployment on Kubernetes** with auto-scaling capabilities
 
 </details>
 
 <details>
-<summary>🔍 <b>Data Quality & Monitoring</b></summary>
+<summary>🔍 <b>Data Observability & Monitoring</b></summary>
 <br>
 
-- **Dataset-level validation** with Great Expectations
-- **Automated quarantine flows** for failing records
-- **Human-in-the-loop review** systems for data quality
-- **Real-time alerting** via Slack/Teams integration
-- **Comprehensive observability** with Grafana dashboards
+- **DBT Tests** for Row-level data quality testing
+- **Notification & alerting** via Slack/Teams or Email integrations
+- **Comprehensive observability** with Prometheus & Grafana 
 
 </details>
 ---
 
-# Tech stack & specialties
-### Tech snapshot
-<p align="center">
+# Tech stack & Highlights
+### Stack
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3d12a6" />
   <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&color=050a30&logoColor=f4f6fc" />
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&color=3d12a6&logoColor=f4f6fc" />
   <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white&color=050a30" />
-</p>
+</p> -->
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,kubernetes,docker,aws,terraform,github,azure,airflow&perline=3&theme=dark" />
-  <br/>
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Stack&lineCount=2&line1=Python,Polars,DuckDB,Airflow;&line2=Kubernetes,Terraform,AWS,Azure,Docker;&theme=github_dark&titleColor=3d12a6&bg=050a30&border=f4f6fc" />
+</div>
+<div>  
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Stack&lineCount=2&line1=Python,Polars,DuckDB,Airflow;&theme=github_dark&titleColor=3d12a6&bg=050a30&border=f4f6fc" />
 </div>
 
 ---
