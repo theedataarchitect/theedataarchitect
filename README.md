@@ -41,9 +41,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,18,19,20&height=100&section=footer&reversal=false&textBg=false" />
 </div>  
   <!-- Activity Graph -->
-<!--  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WillowyBoat2388&custom_title=Contribution%20Graph&bg_color=050a30&color=f4f6fc&line=3d12a6&point=f4f6fc&area=true&hide_border=true" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=WillowyBoat2388&custom_title=Contribution%20Graph&bg_color=050a30&color=f4f6fc&line=3d12a6&point=f4f6fc&area=true&hide_border=true" />
 </div>
--->
 
 # About Me
 I design and operate scalable data infrastructure and platforms — with a particular focus on fast, resilient pipelines, clean data models for analytics, and automation that keeps teams shipping confidently. I enjoy mentoring, documenting architecture clearly, and turning complex data flows into repeatable, trustworthy systems.
@@ -108,14 +107,14 @@ I design and operate scalable data infrastructure and platforms — with a parti
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/WillowyBoat2388/football-analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WillowyBoat2388&repo=football-analytics&theme=dark" />
+  <a href="https://github.com/theedataarchitect/football-analytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theedataarchitect&repo=football-analytics&theme=dark" />
   </a>
-  <a href="https://github.com/WillowyBoat2388/Airflow_Snowflake_pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WillowyBoat2388&repo=Airflow_Snowflake_pipeline&theme=dark" />
+  <a href="https://github.com/theedataarchitect/Airflow_Snowflake_pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theedataarchitect&repo=Airflow_Snowflake_pipeline&theme=dark" />
   </a>
-  <a href="https://github.com/WillowyBoat2388/Bellabeat-Case-Study">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WillowyBoat2388&repo=Bellabeat-Case-Study&theme=dark" />
+  <a href="https://github.com/theedataarchitect/Bellabeat-Case-Study">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theedataarchitect&repo=Bellabeat-Case-Study&theme=dark" />
   </a>
 </p>
 
@@ -131,20 +130,20 @@ I design and operate scalable data infrastructure and platforms — with a parti
 ## 📊 GitHub Metrics & Insights
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WillowyBoat2388&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theedataarchitect&theme=github_dark" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WillowyBoat2388&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WillowyBoat2388&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theedataarchitect&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theedataarchitect&theme=github_dark" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WillowyBoat2388&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WillowyBoat2388&theme=github_dark&utcOffset=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theedataarchitect&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theedataarchitect&theme=github_dark&utcOffset=1" />
 </div>
 
 ---
 
 ## 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WillowyBoat2388&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=theedataarchitect&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=6" />
 </div>
 
 ---
