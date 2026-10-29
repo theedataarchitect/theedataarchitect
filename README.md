@@ -60,7 +60,7 @@ I design and operate scalable data infrastructure and platforms — with a parti
 - Deliver analytics-ready datasets and data products for business stakeholders.  
 - Lead teams on scalable data engineering patterns, idempotent data pipelines, and production deployment best practices.
 <details>
-<summary>🏗️ <b>Building Data Platforms with **Apache Airflow**</b></summary>
+<summary>🏗️ <b>Building Cloud Data Platforms on AWS with Apache Airflow</b></summary>
 <br>
 
 - **Multi-tenant ETL/ELT flows** with automated scheduling
@@ -93,9 +93,9 @@ I design and operate scalable data infrastructure and platforms — with a parti
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,kubernetes,docker,aws,terraform,github,azure,airflow&perline=3&theme=dark" />
 </div>
-<div>  
+<!-- <div>  
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Stack&lineCount=2&line1=Python,Polars,DuckDB,Airflow;&theme=github_dark&titleColor=3d12a6&bg=050a30&border=f4f6fc" />
-</div>
+</div> -->
 
 ---
 
